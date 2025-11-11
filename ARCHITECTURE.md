@@ -27,6 +27,6 @@ go-flutter-app/
 │   ├── pubspec.yaml
 │   └── ios/
 ├── .env
-├── docker-compose.yml      # optional - Không sử dụng
-├── Makefile                # optional - Không sử dụng
+├── docker-compose.yml      # optional- Không sử dụng
+├── Makefile                # optional- Không sử dụng
 └── README.md
